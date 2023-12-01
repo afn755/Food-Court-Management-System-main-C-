@@ -29,6 +29,7 @@ User-Friendly Interface:
 Intuitive graphical interface for both staff and customers, ensuring a seamless experience.
 
 
+
 **How to Use**
 
 Installation:
